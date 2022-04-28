@@ -1,6 +1,5 @@
 
 
-
-#Hola mundo
-Acceso a los avances en : https://proyecto-taller-multimedios.000webhostapp.com/index.html
+Acumulativa
+Acceso : https://proyecto-taller-multimedios.000webhostapp.com/acumulativa/index.html#
 
